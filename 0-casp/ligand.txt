@@ -1,0 +1,6 @@
+ID        Name        SMILES        Relevant
+001        COA        CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@@H](O)C(O)=NCCC(O)=NCCS        Yes
+002        COA        CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@@H](O)C(O)=NCCC(O)=NCCS        Yes
+003        EPE        O=S(=O)(O)CCN1CCN(CCO)CC1        No
+004        EPE        O=S(=O)(O)CCN1CCN(CCO)CC1        No
+005        MPD        C[C@H](O)CC(C)(C)O        No

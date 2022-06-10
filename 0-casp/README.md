@@ -1,0 +1,10 @@
+* ligand.txt
+  from CASP
+* Mpivzt.pdb
+  from novapro
+* Mpivzt.png
+from novapro
+* T1127-A2.pdb
+from casp15.colabfold.com
+* target.txt
+from CASP
